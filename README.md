@@ -13,7 +13,7 @@ Proyecto del primer parcial de Programación Web II. Implementa un CRUD de vehí
 
 ## Requisitos
 
-- PHP 8.3 o superior.
+- PHP 8.2 o superior.
 - Composer.
 - Node.js y npm.
 - MySQL.
